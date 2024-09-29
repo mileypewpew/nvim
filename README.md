@@ -1,2 +1,1 @@
-# nvim
-Personal nvim config
+LOL
